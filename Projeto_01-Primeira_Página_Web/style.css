@@ -1,0 +1,45 @@
+body {
+  background-color: rgb(253, 251, 251);
+}
+
+#cabecalho {
+  position: fixed;
+  top: 0;
+  margin: 10px;
+  padding: 10px;
+  border: 10px;
+  width: 100%;
+  background-color: orangered;
+  text-align: center;
+}
+
+#titulo {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: white;
+}
+
+td {
+  font-size: 20px;
+}
+
+img {
+  width: 300px;
+  margin-top: 150px;
+  padding: 10px;
+  border: 10px;
+}
+
+#licoes_aprendidas #licoes_a_aprender {
+  line-height: 10%;
+}
+
+.lado-esquerdo {
+  display: inline-block;
+  width: 40%;
+  padding: 10px;
+}
+
+.lado-direito {
+  display: inline-block;
+  width: 40%;
+}
