@@ -1,0 +1,16 @@
+body {
+  text-align: center;
+}
+
+#balls {
+  display: inline-flex;
+  justify-content: center;
+}
+
+.ball {
+  border: 1px solid black;
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  margin-left: 10px;
+}
